@@ -1,3 +1,5 @@
+//PALINDROME NUMBER : A Palindrome number is a number that remains the same even after reversing, e.g., .161
+
 import java.util.Scanner;
  class palindrome
 {
