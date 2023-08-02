@@ -1,4 +1,4 @@
-//Square Root of a Number Without sqrt() function.
+//Square Root of a Number Without sqrt() function : The square root of a number is defined as the value, which gives the number when it is multiplied by itself.
 
 import java . util . * ;  
 public class SquareRoot   
