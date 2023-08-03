@@ -2,7 +2,7 @@
 
 import java.util.Scanner;  
    
-class LinearSearchExample2   
+class LinearSearch  
 {  
   public static void main(String args[])  
   {  
