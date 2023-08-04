@@ -1,4 +1,4 @@
-//Binary Search : 
+//Binary Search : Binary search is used to search a key element from multiple elements. Binary search is faster than linear search. 
 
 
 import java.util.Scanner;
