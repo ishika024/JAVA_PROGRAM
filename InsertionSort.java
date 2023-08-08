@@ -1,4 +1,4 @@
-//Insertion Sort : 
+//Insertion Sort : Insertion sort is a simple sorting technique in Java that is efficient for a smaller data set and in place. It is assumed that the first element is always sorted and then each subsequent element is compared to all its previous elements and placed in its proper position. Insertion Sort is an easy-to-implement, stable sorting algorithm with time complexity of O(n²) in the average and worst case, and O(n) in the best case. 
 
 import java.util.Scanner;
 
