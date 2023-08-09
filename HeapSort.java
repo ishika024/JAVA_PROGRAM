@@ -1,4 +1,5 @@
-//Heap Sort : 
+//Heap Sort Using Array : Heapsort is a popular and efficient sorting algorithm. The concept of heap sort is to eliminate the elements one by one from the heap part of the list, and then insert them into the sorted part of the list. Heapsort is the in-place sorting algorithm. Its best, worst and average time complexity is O (n log n).
+
 
 import java.util.Scanner;
 public class HeapSort
