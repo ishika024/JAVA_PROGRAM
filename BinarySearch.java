@@ -1,4 +1,6 @@
-//Binary Search : Binary search is used to search a key element from multiple elements. Binary search is faster than linear search. 
+// Binary Search : Binary search is used to search a key element from multiple elements. Binary search is faster than linear search. Binary search follows the divide and conquer approach in which the list is divided into two halves, and the item is compared with the middle element of the list. If the match is found then, the location of the middle element is returned. Otherwise, we search into either of the halves depending upon the result produced through the match.
+// Time Complexity : Best Case	O(1) , Average Case	O(logn) , Worst Case	O(logn)
+// Space Complexity	O(1)
 
 
 import java.util.Scanner;
