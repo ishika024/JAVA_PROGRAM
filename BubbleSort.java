@@ -1,4 +1,7 @@
 //Bubble Sort : Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. Complexity of bubble sort is O(n2) which makes it a less frequent option for arranging in sorted order when quantity of numbers is high.
+//Time Complexity   Best Case	O(n) , Average Case	O(n2) , Worst Case	O(n2)
+//Space Complexity	O(1)
+
 
 import java.util.Scanner;
 class BubbleSort {
