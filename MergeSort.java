@@ -1,5 +1,5 @@
 // Merge Sort : Merge sort is a divide-and-conquer algorithm, here breaking down a list into multiple sub lists till each sub list consists of a single element and then merging all sub lists in order to get a sorted list. 
-// Time complexity of merge sort in best case, average case, and in worst case is O(n*logn). 
+// Time Complexity in Best Case, Average Case, and Worst Case is O(n*logn). 
 // Space Complexity is	O(n).
 
 import java.util.Scanner;
