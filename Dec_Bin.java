@@ -1,4 +1,6 @@
 // Decimal to Binary Conversion :
+// Time complexity      O(log n) 
+// Space Complexity     O(log n)
 
 import java.util.*;
 class Dec_Bin
