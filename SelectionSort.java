@@ -1,4 +1,6 @@
-//Selection Sort : Selection sort works by taking the smallest element in an unsorted array and bringing it to the front. You'll go through each item (from left to right) until you find the smallest one. The first item in the array is now sorted, while the rest of the array is unsorted. The Selection sort algorithm has a time complexity of O(n^2) and a space complexity of O(1) . 
+//Selection Sort : Selection sort works by taking the smallest element in an unsorted array and bringing it to the front. You'll go through each item (from left to right) until you find the smallest one. The first item in the array is now sorted, while the rest of the array is unsorted. 
+//Time Complexity   O(n^2) 
+//Space Complexity   O(1) . 
 
 import java.util.Scanner;  
   
