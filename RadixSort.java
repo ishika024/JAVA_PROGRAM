@@ -1,3 +1,7 @@
+//Radix Sort : is a sorting algorithm that sorts numbers based on the positions of their digits. Basically, it uses the place value of the digits in a number. 
+//Time Complexity   Best Case	Ω(n+k) , Average Case	θ(nk) , Worst Case	O(nk)
+//Space Complexity	O(n + k)
+
 class RadixSort {  
   
 int getMax(int a[], int n) {  
